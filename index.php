@@ -54,7 +54,7 @@ if (isset($_GET['name'])) {
 					<input class="input100" type="text" name="name" placeholder="How should I call you?">
 				</div>
 
-				<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate = "Enter Your Email (e@a.x)">
+				<div class="wrap-input100 validate-input bg1" data-validate = "Enter Your Email (e@a.x)">
 					<span class="label-input100">Email *</span>
 					<input class="input100" type="text" name="email" placeholder="Enter Your Email address">
 				</div>
